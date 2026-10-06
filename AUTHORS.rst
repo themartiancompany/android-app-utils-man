@@ -27,9 +27,9 @@
    If not, see <https://www.gnu.org/licenses/>.
 
 
-==============================================
-Android input utilities manuals authors
-==============================================
+===================================================
+Android applications utilities manuals authors
+===================================================
 
 * Pellegrino Prevete
   * eth-mail

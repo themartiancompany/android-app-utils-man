@@ -24,10 +24,10 @@
 [comment]: <> (with this program.)
 [comment]: <> (If not, see <https://www.gnu.org/licenses/>.)
 
-# Android input utilities (`android-input-utils`) manuals
+# Android applications utilities (`android-app-utils`) manuals
 
-The [`android-input-utils`](
-  https://github.com/themartiancompany/android-input-utils)
+The [`android-app-utils`](
+  https://github.com/themartiancompany/android-app-utils)
 manuals.
 
 ## Installation
@@ -46,7 +46,7 @@ the uncensorable
 [Ur](
   https://github.com/themartiancompany/ur)
 user repository and application store as
-`android-input-utils`.
+`android-app-utils`.
 The source code is published on the
 [Ethereum Virtual Machine File System](
   https://github.com/themartiancompany/evmfs)
@@ -56,14 +56,14 @@ To install it from there just type
 
 ```bash
 ur \
-  android-input-utils
+  android-app-utils
 ```
 
 A censorable HTTP Github mirror of the recipe published there,
 containing a full list of the software dependencies needed to run the
 tools is hosted on
-[android-input-utils-ur](
-  https://github.com/themartiancompany/android-input-utils-ur).
+[android-app-utils-ur](
+  https://github.com/themartiancompany/android-app-utils-ur).
 Be aware the mirror could go offline any time as Github and more
 in general all HTTP resources are inherently unstable and censorable.
 
