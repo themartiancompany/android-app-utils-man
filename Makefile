@@ -27,7 +27,7 @@
 #    If not, see <https://www.gnu.org/licenses/>.
 
 SHELL = bash
-_PROJECT=android-input-utils
+_PROJECT=android-app-utils
 PREFIX ?= /usr/local
 DOC_DIR=$(DESTDIR)$(PREFIX)/share/doc/$(_PROJECT)
 DATA_DIR=$(DESTDIR)$(PREFIX)/share/$(_PROJECT)
